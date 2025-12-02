@@ -1,4 +1,4 @@
-# README - Tích hợp Google Assistant điều khiển các thiết bị Smart Home
+# Tích hợp Google Assistant điều khiển các thiết bị Smart Home
 
 ## Giới thiệu
 
